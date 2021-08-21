@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @markojovanov
 - 👀 I’m interested in iOS Development 
-- 🌱 I’m currently on iOS Development internship at Netcetera and learning course from Paul Hudson - HackingWithSwift
+- 🌱 I’m currently on iOS Development internship at Netcetera 
