@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @markojovanov
 - 👀 I’m interested in iOS Development 
-- 🌱 I’m currently on iOS Development internship at Netcetera 
+- 🌱 I’m currently on iOS Engineering internship at Netcetera and Software Engineering Student at Faculty of Computer Science and Engineering - Skopje
